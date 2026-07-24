@@ -1,5 +1,5 @@
 public class helloworld {
 	public static void main(String[] args) {
-		System.out.println("Welcome to Java session second time");
+		System.out.println("Welcome to Java session 2nd time");
 	}
 }
